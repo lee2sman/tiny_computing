@@ -8,7 +8,12 @@ title: "Raspberry Pi parts needed"
 
 1. Raspberry Pi 3B+
 2. Power Supply for Raspberry Pi
-3. Micro SD card
-4. Monitor
-5. HDMI Cable
-6. Keyboard + Mouse
+3. Monitor
+4. Power Supply for Monitor
+5. Micro SD card
+6. HDMI Cable
+7. Keyboard 
+8. Mouse
+
+
+Additionally: you will need a card reader with another computer so you can flash the Raspbian operating system onto the microSD card.
