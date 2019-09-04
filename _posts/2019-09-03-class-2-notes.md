@@ -70,6 +70,29 @@ What would they like to do with it?
 
 How will they use it?
 
+PirateBox
+
+{% include image.html image="pirate.png" %}
+
+One Laptop Per Child XO
+
+{% include image.html image="olpc1.jpg" %}
+
+[The Ark](https://www.thearkadia.com/)
+
+{% include image.html image="ark.png" %}
+
+{% include image.html image="ark1.gif" %}
+
+Cyberdeck
+
+{% include image.html image="cyberpunk.jpg" %}
+
+Turbo Dashboard
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4N2GVX-XKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 #### Procedure 
 
 Homework due next week:
