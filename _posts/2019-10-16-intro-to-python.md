@@ -236,6 +236,10 @@ sudo nano /etc/minidlna.conf
 - change the presented url from piratebox.lan to something else
 - add album artwork
 
+## LibraryBox
+
+- [install documentation](http://librarybox.us/building.php)
+
 # Homework:
 - complete your piratebox
 - customize it, make it yours. What is the concept? Who does it serve? Where is it deployed? What alterations are you making to it?
@@ -249,4 +253,5 @@ The completed Piratebox project should have:
 4. Custom landing page/intro page
 5. Screenshots from you connecting to your piratebox from your own computer
 6. **Complete documentation walk through of your building process. Write down every step you took. Make sure you write a description of what you worked on, every 20 minutes!**
+
 
