@@ -22,6 +22,7 @@ title: "Using Piratebox infrastructure - Creating our own Networks"
 > sudo date -s "20170904 1603"
 > cd /opt/piratebox && sudo ./bin/timesave.sh ./conf/piratebox.conf install
 ```
+
 ### enable on startup
 
 ```
@@ -170,7 +171,23 @@ Images and notes on collaborative libraries…
 
 ## Homework
 
+Pick and read 2+ manifestos from [Manifestos For the Digital Age](https://greyscalepress.com/books/manifestos-for-the-internet-age/).
+
+The manifestos are available free to read [in a GitHub repo](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos).
+
 Get your Piratebox to work. Develop a concept for your Piratebox server. Customize the landing page and network name. Add any additional functionality. When complete, consider moving the SD card to a dedicated [Raspberry Pi Zero W](https://www.adafruit.com/product/3400), a $10 Pi.
 
+1. create a README.txt file.
+2. Include:
+- What is the title of your **box?
+- Who made it? (it's perfectly fine to create a collective pseudonym name)
+- What is the title and concept of your **box?
+- Who does it serve?
+- How did you build it?
+- Any additional notes, images, manifesto, etc.
 
+**When finished:**
+1. Upload your readme file to Moodle! 
+2. And place it on your piratebox server in some way that is accessible to the public. Images, ascii art, etc are optional.
 
+**Note: Everyone in your group/collective must upload the README.txt file** to their own moodle space!
