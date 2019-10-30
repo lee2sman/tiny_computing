@@ -12,6 +12,8 @@ This week:
 
 ### Documentation Review
 
+Steve Lambert - [Documenting Work](https://visitsteve.com/budget-gallery-wiki/timeline/5.%20documenting%20work/)
+
 #### Offline-Pedia
 
 
@@ -31,6 +33,9 @@ Wikimedia Foundation [Rapid Grants](https://meta.wikimedia.org/wiki/Grants:Proje
 by Aram Bartholl
 
 ![Keepalive](https://arambartholl.com/wwwppp/wp-content/uploads/2018/03/aram_bartholl_keepalive_2015_01-1000x667.jpg) 
+
+<iframe src="https://player.vimeo.com/video/142945345" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/142945345">Keepalive</a> from <a href="https://vimeo.com/agoasi">Aram Bartholl</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ![Keepalive landing page](https://www.flickr.com/photos/bartholl/20577489854/in/album-72157655953293283/)  
 
@@ -52,5 +57,4 @@ If the camera decides that too many photos have been taken at your location, it 
 {% include image.html image="restricta-hardware.jpg" %}
 
 [info](https://philippschmitt.com/work/camera-restricta)
-
 

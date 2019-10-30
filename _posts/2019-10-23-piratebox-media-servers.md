@@ -23,11 +23,6 @@ title: "Using Piratebox infrastructure - Creating our own Networks"
 > cd /opt/piratebox && sudo ./bin/timesave.sh ./conf/piratebox.conf install
 ```
 
-### enable on startup
-
-```
-> sudo systemctl enable timesave
-```
 
 ### optional: enable the imageboard and discussionboard
 
@@ -55,12 +50,19 @@ SDCard: ```> sudo /opt/piratebox/rpi/bin/sdcard_share.sh```
 > sudo systemctl enable rpi_hwclock
 ```
 
-## TO START:
+# To turn on the Piratebox server
 
 ```
-sudo systemctl start minidlna
 sudo systemctl enable minidlna
+sudo systemctl start minidlna
 ```
+
+# To stop the Piratebox server
+
+```
+sudo systemctl stop minidlna
+```
+
 
 ## Modifications
 
@@ -122,26 +124,27 @@ sudo systemctl start minidlna
 sudo systemctl enable minidlna
 ```
 
-### Create an alias for starting the server
-
-If you don't want to re-type the commands to restart the server every time, make a single word alias.
-
-```
-alias piratebox="sudo systemctl start minidlna && sudo systemctl enable minidlna"
-```
-
-This will save it as a temporary alias.
-
-Going forward, you can use this alias as a shortcut. Just type ```piratebox``` to run the commands to start the Piratebox.
-
-To permanently save this alias in computer's memory, add the above alias line to your ```.bashrc``` file.
-
-To change that, ```nano .bashrc```
-
-
 ### Shutting down the pi
 
-```sudo shutdown -H``` will start a (silent) one minute timer and then shutdown after a minute.
+```sudo shutdown now```
+
+# To get the piratebox to login automatically and start the Piratebox server
+
+Your ```.bashrc``` file runs on startup.
+
+The file is in your home folder. Edit the file.
+
+```nano .bashrc```
+
+At the end of the file add in:
+
+```
+systemctl piratebox enable minidlna
+systemctl piratebox start minidlna
+```
+
+NOTE: This will autorun at startup. To quit out of it, you'll need to do Control-C several times.
+
 
 ### Resources
 
