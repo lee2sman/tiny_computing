@@ -2,8 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Posts', url: 'pages/posts.html'}
+- {name: 'Pages', url: 'pages/posts.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -42,7 +41,7 @@ disqus:
 about: >
   # Special Projects in Tiny Computing
 
-  This is the class website for Special Projects in Tiny Computing at [Purchase College](https://www.purchase.edu/). Students create custom projects using inexpensive, bank card–sized computers for art installations and works for the public good.  Students will conceptualize, design and implement new computer-based devices and participate in critique of contemporary technology and networked devices. In the process, their knowledge of text-based interfaces, free culture, collaboration, circuit building, and the history of creative computing/hacking is deepened. This site is hosted on GitHub Pages using the [Portfolio Jekyll Theme](https://lenpaul.github.io/portfolio-jekyll-theme) by Len Paul. 
+  This is the class website for Special Projects in Tiny Computing at [Purchase College](https://www.purchase.edu/). Students create custom projects using inexpensive, bank card–sized computers for art installations and works for the public good.  Students will conceptualize, design and implement new computer-based devices and participate in critique of contemporary technology and networked devices. In the process, their knowledge of text-based interfaces, free culture, collaboration, circuit building, and the history of creative computing/hacking is deepened. This site is hosted on GitHub Pages using a modified [Portfolio Jekyll Theme](https://lenpaul.github.io/portfolio-jekyll-theme). Raspberry Pi robotics image from Learn Robotics. 
 
 contact: >
   # Contact
@@ -53,7 +52,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
+#- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
 #- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
 #- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
 #- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
