@@ -51,5 +51,10 @@ Reading:
 
 > The authors suggest that postcolonial science studies can do more than expand answers to questions already posed; it can generate different questions and different ways of looking at the world. To illustrate, the authors draw on existing histories and anthropologies and critical theories of colonial and postcolonial technoscience. To move forward together, rather than remaining mired in regretful contemplation of past biases, the authors offer some analytical and practical suggestions. In reading hegemonic forms of postcolonial computing, this article offers tactics for rereading, rewriting, or reimagining those scripts. --*Postcolonial Computing: A Tactical Survey*
 
+# Weekly log of work toward final project
 
-
+- what did you do today?
+- photo documentation (which can include screenshots)
+- where have you been stuck? what have you tried? 
+- write up any tutorials you followed and include step by step notes. (1. 2. 3....)
+- what are your next steps between this class and next week?
