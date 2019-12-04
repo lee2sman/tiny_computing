@@ -9,7 +9,13 @@ This week:
 - evaluations
 - open studios tomorrow!
 
-## Goals of the course
+### Open Studio Thursday
+
+{% include image.html image="open-studio.jpg" %}
+
+### What have we learned?
+
+Let's look back at our **Goals of the course**
 
 At the beginning of the semester we laid out the goals of this course: 
 
